@@ -1,0 +1,17 @@
+*.log
+*.log.*
+stream
+rtmp
+mjpeg
+get_active_window
+test/*.jpeg
+test/*.jpg
+*.h264
+*.flv
+*.mp4
+*.txt
+*.mp3
+*.jpeg
+*.jpg
+lib/pkg
+!cmd/*
